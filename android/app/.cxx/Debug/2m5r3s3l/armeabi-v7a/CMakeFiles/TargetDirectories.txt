@@ -1,0 +1,2 @@
+D:/advanced project/micard/android/app/.cxx/Debug/2m5r3s3l/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/advanced project/micard/android/app/.cxx/Debug/2m5r3s3l/armeabi-v7a/CMakeFiles/rebuild_cache.dir

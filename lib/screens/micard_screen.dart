@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 
 import '../constant.dart';
 import '../widgets/custom_list_tile.dart';
+import '../widgets/image_avatar.dart';
 
 class MicardScreen extends StatelessWidget {
   const MicardScreen({super.key});
@@ -13,6 +14,7 @@ class MicardScreen extends StatelessWidget {
       body: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
+          ImageAvatar(),
           Text(
             'Hussein Rizk',
             style: kTextStyle,
