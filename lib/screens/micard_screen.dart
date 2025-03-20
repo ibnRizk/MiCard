@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 import '../constant.dart';
+import '../widgets/custom_list_tile.dart';
 
 class MicardScreen extends StatelessWidget {
   const MicardScreen({super.key});
@@ -28,6 +29,8 @@ class MicardScreen extends StatelessWidget {
             endIndent: 60,
             indent: 60,
           ),
+          CustomListTile(icon: Icons.phone, text: '+20 01026929650'),
+          CustomListTile(icon: Icons.phone, text: 'husseinrizk117@gmail.com'),
         ],
       ),
     );
